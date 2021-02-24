@@ -1,0 +1,22 @@
+{
+  "gameState" : 1,
+  "playerCount" : 4,
+  "players" : {
+    "player1" : {
+      "distance" : 2800,
+      "name" : "welcome to chan's kitchen"
+    },
+    "player2" : {
+      "distance" : 2600,
+      "name" : "christiano bangnaldo"
+    },
+    "player3" : {
+      "distance" : 2250,
+      "name" : "oi felix"
+    },
+    "player4" : {
+      "distance" : 2000,
+      "name" : "vegemite"
+    }
+  }
+}
